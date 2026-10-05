@@ -66,6 +66,10 @@ export default function Navbar() {
             Home
           </Link>
 
+          <Link href="/about" className="text-[#1f4d3a] hover:text-[#f59e0b]">
+            About
+          </Link>
+
           <Link href="/tours" className="text-[#1f4d3a] hover:text-[#f59e0b]">
             Tours
           </Link>
@@ -116,6 +120,7 @@ export default function Navbar() {
         <div className="lg:hidden bg-[#f5f0e8] border-t shadow-md">
           <nav className="flex flex-col p-5 gap-4 font-semibold text-[#1f4d3a]">
             <Link href="/" onClick={() => setMenuOpen(false)}>Home</Link>
+            <Link href="/about" onClick={() => setMenuOpen(false)}>About</Link>
             <Link href="/tours" onClick={() => setMenuOpen(false)}>Tours</Link>
 
             <div>
