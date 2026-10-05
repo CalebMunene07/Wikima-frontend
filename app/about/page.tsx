@@ -29,15 +29,14 @@ const TEAM = [
       { name: "Oliver Kiprono", title: "Travel Consultant", img: "/team/consult1.jpg" },
       { name: "Joseph Mutua", title: "Safari Consultant", img: "/team/consult3.jpg" },
       { name: "Beatrice Chemutai", title: "Destination Consultant", img: "/team/consult2.jpg" },
-   
-   ],
+    ],
   },
   {
     role: "Guides",
     members: [
       { name: "Daniel Lemayian", title: "Senior Safari Guide", img: "/team/guide1.jpg" },
       { name: "James Ole Nkai", title: "Wildlife Tracker", img: "/team/guide2.jpg" },
-      
+    ],
   },
 ];
 const VALUES = [
