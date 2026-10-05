@@ -145,9 +145,9 @@ const KENYA_PRICE_TABLES = [
     slug: "7-day-kenya-grand-safari",
     title: "7-Day Grand Kenya Safari",
     seasons: [
-      { label: "03 Jan – 31 Mar 2026", "2-3 pax": "$1,095", "4-5 pax": "$895", "6 pax": "$825" },
-      { label: "01 Apr – 30 Sep 2026", "2-3 pax": "$1,180", "4-5 pax": "$960", "6 pax": "$895" },
-      { label: "01 Oct – 21 Dec 2026", "2-3 pax": "$1,095", "4-5 pax": "$895", "6 pax": "$825" },
+      { label: "03 Jan – 31 Mar 2026", "2-3 pax": "$2,265", "4-5 pax": "$1,920", "6 pax": "$1,850" },
+      { label: "01 Apr – 30 Sep 2026", "2-3 pax": "$2,295", "4-5 pax": "$1,980", "6 pax": "$1,890" },
+      { label: "01 Oct – 21 Dec 2026", "2-3 pax": "$2,795", "4-5 pax": "$2,480", "6 pax": "$2,360" },
     ],
   },
 ];
